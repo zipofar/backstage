@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 module.exports = {
+  a: 1,
   title: 'Backstage Software Catalog and Developer Platform',
   tagline: 'An open platform for building developer portals',
   url: 'https://backstage.io',
